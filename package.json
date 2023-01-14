@@ -1,9 +1,10 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "build": "echo sucess",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -17,5 +18,15 @@
     "lodash": "^4.17.21",
     "mongodb": "^4.13.0",
     "mongoose": "^6.8.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shania524/Todolist2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shania524/Todolist2/issues"
+  },
+  "homepage": "https://github.com/shania524/Todolist2#readme",
+  "description": ""
 }
